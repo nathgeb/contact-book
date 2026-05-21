@@ -22,7 +22,7 @@ int main() {
 
         switch (choice) {
             case 1:
-                std::cout << "Add contact - coming soon\n";
+             addContact(contacts);
                 break;
             case 2:
                 std::cout << "View contacts - coming soon\n";
